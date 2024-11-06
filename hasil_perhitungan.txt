@@ -1,0 +1,8 @@
+Teks:
+"Program penghitung kata ini bekerja dengan cara memecah teks menjadi bagian-bagian kecil berdasarkan kriteria tertentu. Setiap kata dihitung dengan membagi teks berdasarkan spasi, sedangkan kalimat dihitung dengan mendeteksi tanda baca akhir seperti titik, tanda seru, dan tanda tanya. Jumlah paragraf juga dihitung berdasarkan jumlah baris baru, memberikan penulis informasi yang lebih mendalam mengenai struktur teks. Dengan fitur ini, pengguna bisa lebih mudah mengatur tulisan mereka agar tetap terstruktur dan memenuhi persyaratan jumlah kata atau paragraf yang diperlukan."
+
+Hasil Perhitungan:
+Jumlah Kata         : 77
+Jumlah Karakter  : 504
+Jumlah Kalimat   : 5
+Jumlah Paragraf  : 1
