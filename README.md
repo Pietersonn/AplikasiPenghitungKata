@@ -35,4 +35,4 @@
 - IDE seperti NetBeans atau IntelliJ IDEA untuk menjalankan proyek.
 
 ## DEMO
-
+![Demo Aplikasi](Demo.gif)
